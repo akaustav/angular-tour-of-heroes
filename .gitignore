@@ -48,3 +48,12 @@ Temporary Items
 
 # Node JS
 node_modules/
+*.map
+app/app.component.js
+app/app.module.js
+app/main.js
+.vscode/settings.json
+app/hero.js
+app/hero-detail.component.js
+app/mock-heroes.js
+app/hero.service.js
