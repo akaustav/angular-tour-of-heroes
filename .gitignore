@@ -47,14 +47,7 @@ Temporary Items
 .apdisk
 
 # Node JS
-node_modules/
+*.js
 *.map
-app/app.component.js
-app/app.module.js
-app/main.js
+node_modules/
 .vscode/settings.json
-app/hero.js
-app/hero-detail.component.js
-app/mock-heroes.js
-app/hero.service.js
-app/heroes.component.js

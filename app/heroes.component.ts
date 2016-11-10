@@ -5,7 +5,7 @@ import { OnInit } from '@angular/core';
 
 @Component({
   selector: 'my-heroes',
-  template:`
+  template: `
     <h2>My Heroes</h2>
     <ul class="heroes">
       <li *ngFor="let hero of heroes"
